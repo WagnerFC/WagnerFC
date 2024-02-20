@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WagnerFC
+- 👀 I’m interested in Git and GitHub, Computer visualization, data analysis, Python and others...
+- 🌱 I’m currently learning Computer engineering.
+- 💞️ I’m looking to collaborate on topics related to computer engineering.
